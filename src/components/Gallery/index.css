@@ -1,0 +1,23 @@
+/* Write your code here. */
+.container {
+  background-color: #fffefe;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 25px;
+}
+.unOrder {
+  display: flex;
+  justify-content: flex-start;
+}
+h1 {
+  font-weight: 600;
+}
+p {
+  font-size: medium;
+}
+.img {
+  height: 600px;
+  width: 100%;
+}
